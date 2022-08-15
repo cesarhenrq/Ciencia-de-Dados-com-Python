@@ -1,2 +1,2 @@
-# Ciencia-de-Dados-com-Python
+# Ciência de Dados com Python
 Projetos de ciência de dados utilizando python
